@@ -92,4 +92,4 @@ Add a `.github/workflows/collect.yml` that runs the DeFiLlama collection script 
 
 ## Author
 
-H. Cheruiyot · Built with [Perplexity Computer](https://www.perplexity.ai/computer)
+H. Cheruiyot ·
